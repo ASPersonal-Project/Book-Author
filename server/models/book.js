@@ -4,7 +4,7 @@ const bookSchema = new mongoose.Schema({
     name:{
         type:String
     },
-    gener:{
+    genre:{
         type:String
     },
     authorId:{
